@@ -1,0 +1,10 @@
+com/rest/bean/ItemBean.class
+com/rest/repository/ItemRepository.class
+com/rest/service/ItemService.class
+com/rest/service/ItemServiceImpl.class
+com/rest/MenuitemApplication.class
+com/rest/model/Item.class
+com/rest/dao/ItemDao.class
+com/rest/dao/ItemDaoImpl.class
+com/rest/controller/ItemController.class
+com/rest/SwaggerConfig.class
